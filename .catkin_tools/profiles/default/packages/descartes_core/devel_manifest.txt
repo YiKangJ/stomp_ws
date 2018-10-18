@@ -1,0 +1,5 @@
+4.1/src/descartes/descartes_core
+/home/jyk/stomp_ws/devel/.private/descartes_core/lib/libdescartes_core.so /home/jyk/stomp_ws/devel/lib/libdescartes_core.so
+/home/jyk/stomp_ws/devel/.private/descartes_core/lib/pkgconfig/descartes_core.pc /home/jyk/stomp_ws/devel/lib/pkgconfig/descartes_core.pc
+/home/jyk/stomp_ws/devel/.private/descartes_core/share/descartes_core/cmake/descartes_coreConfig-version.cmake /home/jyk/stomp_ws/devel/share/descartes_core/cmake/descartes_coreConfig-version.cmake
+/home/jyk/stomp_ws/devel/.private/descartes_core/share/descartes_core/cmake/descartes_coreConfig.cmake /home/jyk/stomp_ws/devel/share/descartes_core/cmake/descartes_coreConfig.cmake

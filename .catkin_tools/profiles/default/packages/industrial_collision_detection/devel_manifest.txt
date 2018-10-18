@@ -1,0 +1,6 @@
+industrial_moveit/industrial_collision_detection
+/home/jyk/stomp_ws/devel/.private/industrial_collision_detection/lib/libindustrial_collision_detection_plugin.so /home/jyk/stomp_ws/devel/lib/libindustrial_collision_detection_plugin.so
+/home/jyk/stomp_ws/devel/.private/industrial_collision_detection/lib/libindustrial_collision_detection.so /home/jyk/stomp_ws/devel/lib/libindustrial_collision_detection.so
+/home/jyk/stomp_ws/devel/.private/industrial_collision_detection/lib/pkgconfig/industrial_collision_detection.pc /home/jyk/stomp_ws/devel/lib/pkgconfig/industrial_collision_detection.pc
+/home/jyk/stomp_ws/devel/.private/industrial_collision_detection/share/industrial_collision_detection/cmake/industrial_collision_detectionConfig.cmake /home/jyk/stomp_ws/devel/share/industrial_collision_detection/cmake/industrial_collision_detectionConfig.cmake
+/home/jyk/stomp_ws/devel/.private/industrial_collision_detection/share/industrial_collision_detection/cmake/industrial_collision_detectionConfig-version.cmake /home/jyk/stomp_ws/devel/share/industrial_collision_detection/cmake/industrial_collision_detectionConfig-version.cmake

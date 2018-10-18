@@ -1,0 +1,4 @@
+4.1/src/universal_robot/ur_bringup
+/home/jyk/stomp_ws/devel/.private/ur_bringup/lib/pkgconfig/ur_bringup.pc /home/jyk/stomp_ws/devel/lib/pkgconfig/ur_bringup.pc
+/home/jyk/stomp_ws/devel/.private/ur_bringup/share/ur_bringup/cmake/ur_bringupConfig-version.cmake /home/jyk/stomp_ws/devel/share/ur_bringup/cmake/ur_bringupConfig-version.cmake
+/home/jyk/stomp_ws/devel/.private/ur_bringup/share/ur_bringup/cmake/ur_bringupConfig.cmake /home/jyk/stomp_ws/devel/share/ur_bringup/cmake/ur_bringupConfig.cmake
