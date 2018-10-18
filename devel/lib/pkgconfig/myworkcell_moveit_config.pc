@@ -1,0 +1,1 @@
+/home/jyk/stomp_ws/devel/.private/myworkcell_moveit_config/lib/pkgconfig/myworkcell_moveit_config.pc

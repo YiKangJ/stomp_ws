@@ -1,0 +1,74 @@
+[35m[1mScanning dependencies of target descartes_moveit[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/descartes_moveit.dir/src/ikfast_moveit_state_adapter.cpp.o[0m
+In file included from [01m[K/usr/include/string.h:32:0[m[K,
+                 from [01m[K/usr/include/boost/range/detail/implementation_help.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/range/end.hpp:24[m[K,
+                 from [01m[K/usr/include/boost/algorithm/string/trim.hpp:17[m[K,
+                 from [01m[K/usr/include/boost/algorithm/string.hpp:19[m[K,
+                 from [01m[K/usr/include/urdf_model/pose.h:53[m[K,
+                 from [01m[K/usr/include/urdf_model/joint.h:43[m[K,
+                 from [01m[K/usr/include/urdf_model/link.h:44[m[K,
+                 from [01m[K/usr/include/urdf_model/model.h:42[m[K,
+                 from [01m[K/opt/ros/kinetic/include/urdf/model.h:42[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/robot_model.h:43[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/kinematic_constraints/kinematic_constraint.h:40[m[K,
+                 from [01m[K/home/jyk/stomp_ws/src/4.1/src/descartes/descartes_core/include/descartes_core/robot_model.h:23[m[K,
+                 from [01m[K/home/jyk/stomp_ws/src/4.1/src/descartes/descartes_moveit/include/descartes_moveit/moveit_state_adapter.h:22[m[K,
+                 from [01m[K/home/jyk/stomp_ws/src/4.1/src/descartes/descartes_moveit/include/descartes_moveit/ikfast_moveit_state_adapter.h:22[m[K,
+                 from [01m[K/home/jyk/stomp_ws/src/4.1/src/descartes/descartes_moveit/src/ikfast_moveit_state_adapter.cpp:19[m[K:
+[01m[K/opt/ros/kinetic/include/moveit/kinematics_base/kinematics_base.h:299:68:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kcontext_state[m[K’ [-Wunused-parameter]
+                    const moveit::core::RobotState* context_state = NULL) const
+[01;32m[K                                                                    ^[m[K
+[ 40%] [32mBuilding CXX object CMakeFiles/descartes_moveit.dir/src/moveit_state_adapter.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/descartes_moveit.dir/src/plugin_init.cpp.o[0m
+In file included from [01m[K/usr/include/string.h:32:0[m[K,
+                 from [01m[K/usr/include/boost/range/detail/implementation_help.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/range/end.hpp:24[m[K,
+                 from [01m[K/usr/include/boost/algorithm/string/trim.hpp:17[m[K,
+                 from [01m[K/usr/include/boost/algorithm/string.hpp:19[m[K,
+                 from [01m[K/usr/include/urdf_model/pose.h:53[m[K,
+                 from [01m[K/usr/include/urdf_model/joint.h:43[m[K,
+                 from [01m[K/usr/include/urdf_model/link.h:44[m[K,
+                 from [01m[K/usr/include/urdf_model/model.h:42[m[K,
+                 from [01m[K/opt/ros/kinetic/include/urdf/model.h:42[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/robot_model.h:43[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/kinematic_constraints/kinematic_constraint.h:40[m[K,
+                 from [01m[K/home/jyk/stomp_ws/src/4.1/src/descartes/descartes_core/include/descartes_core/robot_model.h:23[m[K,
+                 from [01m[K/home/jyk/stomp_ws/src/4.1/src/descartes/descartes_moveit/include/descartes_moveit/moveit_state_adapter.h:22[m[K,
+                 from [01m[K/home/jyk/stomp_ws/src/4.1/src/descartes/descartes_moveit/src/moveit_state_adapter.cpp:21[m[K:
+[01m[K/opt/ros/kinetic/include/moveit/kinematics_base/kinematics_base.h:299:68:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kcontext_state[m[K’ [-Wunused-parameter]
+                    const moveit::core::RobotState* context_state = NULL) const
+[01;32m[K                                                                    ^[m[K
+In file included from [01m[K/usr/include/string.h:32:0[m[K,
+                 from [01m[K/usr/include/c++/5/cstring:42[m[K,
+                 from [01m[K/usr/include/boost/date_time/posix_time/conversion.hpp:12[m[K,
+                 from [01m[K/usr/include/boost/thread/pthread/recursive_mutex.hpp:20[m[K,
+                 from [01m[K/usr/include/boost/thread/recursive_mutex.hpp:16[m[K,
+                 from [01m[K/opt/ros/kinetic/include/class_loader/./class_loader.hpp:37[m[K,
+                 from [01m[K/opt/ros/kinetic/include/class_loader/class_loader.h:35[m[K,
+                 from [01m[K/opt/ros/kinetic/include/pluginlib/./class_list_macros.hpp:40[m[K,
+                 from [01m[K/opt/ros/kinetic/include/pluginlib/class_list_macros.h:35[m[K,
+                 from [01m[K/home/jyk/stomp_ws/src/4.1/src/descartes/descartes_moveit/src/plugin_init.cpp:5[m[K:
+[01m[K/opt/ros/kinetic/include/moveit/kinematics_base/kinematics_base.h:299:68:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kcontext_state[m[K’ [-Wunused-parameter]
+                    const moveit::core::RobotState* context_state = NULL) const
+[01;32m[K                                                                    ^[m[K
+[ 80%] [32mBuilding CXX object CMakeFiles/descartes_moveit.dir/src/seed_search.cpp.o[0m
+In file included from [01m[K/usr/include/string.h:32:0[m[K,
+                 from [01m[K/usr/include/boost/range/detail/implementation_help.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/range/end.hpp:24[m[K,
+                 from [01m[K/usr/include/boost/algorithm/string/trim.hpp:17[m[K,
+                 from [01m[K/usr/include/boost/algorithm/string.hpp:19[m[K,
+                 from [01m[K/usr/include/urdf_model/pose.h:53[m[K,
+                 from [01m[K/usr/include/urdf_model/joint.h:43[m[K,
+                 from [01m[K/usr/include/urdf_model/link.h:44[m[K,
+                 from [01m[K/usr/include/urdf_model/model.h:42[m[K,
+                 from [01m[K/opt/ros/kinetic/include/urdf/model.h:42[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/robot_model.h:43[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_state/robot_state.h:41[m[K,
+                 from [01m[K/home/jyk/stomp_ws/src/4.1/src/descartes/descartes_moveit/include/descartes_moveit/seed_search.h:38[m[K,
+                 from [01m[K/home/jyk/stomp_ws/src/4.1/src/descartes/descartes_moveit/src/seed_search.cpp:1[m[K:
+[01m[K/opt/ros/kinetic/include/moveit/kinematics_base/kinematics_base.h:299:68:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kcontext_state[m[K’ [-Wunused-parameter]
+                    const moveit::core::RobotState* context_state = NULL) const
+[01;32m[K                                                                    ^[m[K
+[100%] [32m[1mLinking CXX shared library /home/jyk/stomp_ws/devel/.private/descartes_moveit/lib/libdescartes_moveit.so[0m
+[100%] Built target descartes_moveit

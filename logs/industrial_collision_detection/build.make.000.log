@@ -1,0 +1,10 @@
+[35m[1mScanning dependencies of target industrial_collision_detection[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/industrial_collision_detection.dir/src/collision_detection/collision_common.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/industrial_collision_detection.dir/src/collision_detection/collision_robot_industrial.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/industrial_collision_detection.dir/src/collision_detection/collision_world_industrial.cpp.o[0m
+[ 66%] [32m[1mLinking CXX shared library /home/jyk/stomp_ws/devel/.private/industrial_collision_detection/lib/libindustrial_collision_detection.so[0m
+[ 66%] Built target industrial_collision_detection
+[35m[1mScanning dependencies of target industrial_collision_detection_plugin[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/industrial_collision_detection_plugin.dir/src/industrial_collision_detection_plugin.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/jyk/stomp_ws/devel/.private/industrial_collision_detection/lib/libindustrial_collision_detection_plugin.so[0m
+[100%] Built target industrial_collision_detection_plugin

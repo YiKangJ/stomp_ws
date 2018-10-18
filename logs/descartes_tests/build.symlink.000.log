@@ -1,0 +1,4 @@
+Symlinking /home/jyk/stomp_ws/devel/lib/libdescartes_tests.so
+Symlinking /home/jyk/stomp_ws/devel/lib/pkgconfig/descartes_tests.pc
+Symlinking /home/jyk/stomp_ws/devel/share/descartes_tests/cmake/descartes_testsConfig.cmake
+Symlinking /home/jyk/stomp_ws/devel/share/descartes_tests/cmake/descartes_testsConfig-version.cmake

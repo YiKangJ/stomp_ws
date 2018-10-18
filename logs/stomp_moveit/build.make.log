@@ -1,0 +1,6 @@
+[ 15%] Built target stomp_moveit_noisy_filters
+[ 35%] Built target stomp_moveit
+[ 50%] Built target stomp_moveit_cost_functions
+[ 60%] Built target stomp_moveit_noise_generators
+[ 90%] Built target stomp_moveit_update_filters
+[100%] Built target stomp_moveit_planner_manager

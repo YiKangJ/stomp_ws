@@ -1,0 +1,98 @@
+[35m[1mScanning dependencies of target constrained_ik_gencfg[0m
+[  1%] [34m[1mGenerating dynamic reconfigure files from cfg/CLIKDynamic.cfg: /home/jyk/stomp_ws/devel/.private/constrained_ik/include/constrained_ik/CLIKDynamicConfig.h /home/jyk/stomp_ws/devel/.private/constrained_ik/lib/python2.7/dist-packages/constrained_ik/cfg/CLIKDynamicConfig.py[0m
+Generating reconfiguration files for CLIKDynamic in constrained_ik
+Wrote header file in /home/jyk/stomp_ws/devel/.private/constrained_ik/include/constrained_ik/CLIKDynamicConfig.h
+[  3%] [34m[1mGenerating dynamic reconfigure files from cfg/CLIKPlannerDynamic.cfg: /home/jyk/stomp_ws/devel/.private/constrained_ik/include/constrained_ik/CLIKPlannerDynamicConfig.h /home/jyk/stomp_ws/devel/.private/constrained_ik/lib/python2.7/dist-packages/constrained_ik/cfg/CLIKPlannerDynamicConfig.py[0m
+Generating reconfiguration files for CLIKPlannerDynamic in constrained_ik
+Wrote header file in /home/jyk/stomp_ws/devel/.private/constrained_ik/include/constrained_ik/CLIKPlannerDynamicConfig.h
+[  3%] Built target constrained_ik_gencfg
+[35m[1mScanning dependencies of target constrained_ik[0m
+[  5%] [32mBuilding CXX object CMakeFiles/constrained_ik.dir/src/basic_kin.cpp.o[0m
+[  7%] [32mBuilding CXX object CMakeFiles/constrained_ik.dir/src/constrained_ik.cpp.o[0m
+[  8%] [32mBuilding CXX object CMakeFiles/constrained_ik.dir/src/constraint.cpp.o[0m
+[ 10%] [32mBuilding CXX object CMakeFiles/constrained_ik.dir/src/solver_state.cpp.o[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/constrained_ik.dir/src/enum_types.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/constrained_ik.dir/src/constrained_ik_utils.cpp.o[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/constrained_ik.dir/src/constraint_group.cpp.o[0m
+[ 17%] [32m[1mLinking CXX shared library /home/jyk/stomp_ws/devel/.private/constrained_ik/lib/libconstrained_ik.so[0m
+[ 17%] Built target constrained_ik
+[35m[1mScanning dependencies of target constrained_ik_constraints[0m
+[ 19%] [32mBuilding CXX object CMakeFiles/constrained_ik_constraints.dir/src/constraints/goal_orientation.cpp.o[0m
+[ 21%] [32mBuilding CXX object CMakeFiles/constrained_ik_constraints.dir/src/constraints/goal_position.cpp.o[0m
+[ 23%] [32mBuilding CXX object CMakeFiles/constrained_ik_constraints.dir/src/constraints/tool_position.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/constrained_ik_constraints.dir/src/constraints/goal_tool_orientation.cpp.o[0m
+[ 26%] [32mBuilding CXX object CMakeFiles/constrained_ik_constraints.dir/src/constraints/goal_minimize_change.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/constrained_ik_constraints.dir/src/constraints/goal_mid_joint.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/constrained_ik_constraints.dir/src/constraints/goal_zero_jvel.cpp.o[0m
+[ 32%] [32mBuilding CXX object CMakeFiles/constrained_ik_constraints.dir/src/constraints/avoid_singularities.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/constrained_ik_constraints.dir/src/constraints/joint_vel_limits.cpp.o[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/constrained_ik_constraints.dir/src/constraints/avoid_obstacles.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/constrained_ik_constraints.dir/src/constraints/avoid_joint_limits.cpp.o[0m
+[ 39%] [32mBuilding CXX object CMakeFiles/constrained_ik_constraints.dir/src/constraints/goal_tool_pointing.cpp.o[0m
+[ 41%] [32m[1mLinking CXX shared library /home/jyk/stomp_ws/devel/.private/constrained_ik/lib/libconstrained_ik_constraints.so[0m
+[ 41%] Built target constrained_ik_constraints
+[35m[1mScanning dependencies of target goal_tool_position_example[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/goal_tool_position_example.dir/examples/goal_tool_position_example.cpp.o[0m
+[35m[1mScanning dependencies of target goal_tool_pointing_example[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/goal_tool_pointing_example.dir/examples/goal_tool_pointing_example.cpp.o[0m
+[ 46%] [32m[1mLinking CXX executable /home/jyk/stomp_ws/devel/.private/constrained_ik/lib/constrained_ik/goal_tool_position_example[0m
+[ 46%] Built target goal_tool_position_example
+[35m[1mScanning dependencies of target goal_position_example[0m
+[ 48%] [32mBuilding CXX object CMakeFiles/goal_position_example.dir/examples/goal_position_example.cpp.o[0m
+[ 50%] [32m[1mLinking CXX executable /home/jyk/stomp_ws/devel/.private/constrained_ik/lib/constrained_ik/goal_tool_pointing_example[0m
+[ 50%] Built target goal_tool_pointing_example
+[35m[1mScanning dependencies of target goal_minimize_change_example[0m
+[ 51%] [32mBuilding CXX object CMakeFiles/goal_minimize_change_example.dir/examples/goal_minimize_change_example.cpp.o[0m
+[ 53%] [32m[1mLinking CXX executable /home/jyk/stomp_ws/devel/.private/constrained_ik/lib/constrained_ik/goal_position_example[0m
+[ 53%] Built target goal_position_example
+[35m[1mScanning dependencies of target goal_mid_joint_example[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/goal_mid_joint_example.dir/examples/goal_mid_joint_example.cpp.o[0m
+[ 57%] [32m[1mLinking CXX executable /home/jyk/stomp_ws/devel/.private/constrained_ik/lib/constrained_ik/goal_minimize_change_example[0m
+[ 57%] Built target goal_minimize_change_example
+[35m[1mScanning dependencies of target avoid_singularities_example[0m
+[ 58%] [32mBuilding CXX object CMakeFiles/avoid_singularities_example.dir/examples/avoid_singularities_example.cpp.o[0m
+[ 60%] [32m[1mLinking CXX executable /home/jyk/stomp_ws/devel/.private/constrained_ik/lib/constrained_ik/goal_mid_joint_example[0m
+[ 60%] Built target goal_mid_joint_example
+[35m[1mScanning dependencies of target avoid_obstacles_example[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/avoid_obstacles_example.dir/examples/avoid_obstacles_example.cpp.o[0m
+[ 64%] [32m[1mLinking CXX executable /home/jyk/stomp_ws/devel/.private/constrained_ik/lib/constrained_ik/avoid_singularities_example[0m
+[ 64%] Built target avoid_singularities_example
+[35m[1mScanning dependencies of target avoid_joint_limits_example[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/avoid_joint_limits_example.dir/examples/avoid_joint_limits_example.cpp.o[0m
+[ 67%] [32m[1mLinking CXX executable /home/jyk/stomp_ws/devel/.private/constrained_ik/lib/constrained_ik/avoid_obstacles_example[0m
+[ 67%] Built target avoid_obstacles_example
+[35m[1mScanning dependencies of target constraints_from_yaml_example[0m
+[ 69%] [32mBuilding CXX object CMakeFiles/constraints_from_yaml_example.dir/examples/constraints_from_yaml_example.cpp.o[0m
+[35m[1mScanning dependencies of target constrained_ik_moveit[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/constrained_ik_moveit.dir/src/moveit_interface/joint_interpolation_planner.cpp.o[0m
+[ 73%] [32m[1mLinking CXX executable /home/jyk/stomp_ws/devel/.private/constrained_ik/lib/constrained_ik/avoid_joint_limits_example[0m
+[ 75%] [32m[1mLinking CXX executable /home/jyk/stomp_ws/devel/.private/constrained_ik/lib/constrained_ik/constraints_from_yaml_example[0m
+[ 75%] Built target avoid_joint_limits_example
+[ 76%] [32mBuilding CXX object CMakeFiles/constrained_ik_moveit.dir/src/moveit_interface/cartesian_planner.cpp.o[0m
+[ 76%] Built target constraints_from_yaml_example
+[35m[1mScanning dependencies of target constrained_ik_plugin[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/constrained_ik_plugin.dir/src/moveit_interface/constrained_ik_plugin.cpp.o[0m
+[35m[1mScanning dependencies of target avoid_joint_vel_limits_example[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/avoid_joint_vel_limits_example.dir/examples/avoid_joint_vel_limits_example.cpp.o[0m
+[ 82%] [32m[1mLinking CXX shared library /home/jyk/stomp_ws/devel/.private/constrained_ik/lib/libconstrained_ik_plugin.so[0m
+[ 82%] Built target constrained_ik_plugin
+[35m[1mScanning dependencies of target goal_tool_orientation_example[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/goal_tool_orientation_example.dir/examples/goal_tool_orientation_example.cpp.o[0m
+[ 85%] [32m[1mLinking CXX executable /home/jyk/stomp_ws/devel/.private/constrained_ik/lib/constrained_ik/avoid_joint_vel_limits_example[0m
+[ 85%] Built target avoid_joint_vel_limits_example
+[35m[1mScanning dependencies of target goal_zero_jvel_example[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/goal_zero_jvel_example.dir/examples/goal_zero_jvel_example.cpp.o[0m
+[ 89%] [32m[1mLinking CXX shared library /home/jyk/stomp_ws/devel/.private/constrained_ik/lib/libconstrained_ik_moveit.so[0m
+[ 89%] Built target constrained_ik_moveit
+[35m[1mScanning dependencies of target goal_orientation_example[0m
+[ 91%] [32mBuilding CXX object CMakeFiles/goal_orientation_example.dir/examples/goal_orientation_example.cpp.o[0m
+[ 92%] [32m[1mLinking CXX executable /home/jyk/stomp_ws/devel/.private/constrained_ik/lib/constrained_ik/goal_tool_orientation_example[0m
+[ 92%] Built target goal_tool_orientation_example
+[35m[1mScanning dependencies of target moveit_clik_planner_plugin[0m
+[ 94%] [32mBuilding CXX object CMakeFiles/moveit_clik_planner_plugin.dir/src/moveit_interface/constrained_ik_planner_plugin.cpp.o[0m
+[ 96%] [32m[1mLinking CXX executable /home/jyk/stomp_ws/devel/.private/constrained_ik/lib/constrained_ik/goal_zero_jvel_example[0m
+[ 96%] Built target goal_zero_jvel_example
+[ 98%] [32m[1mLinking CXX executable /home/jyk/stomp_ws/devel/.private/constrained_ik/lib/constrained_ik/goal_orientation_example[0m
+[ 98%] Built target goal_orientation_example
+[100%] [32m[1mLinking CXX shared library /home/jyk/stomp_ws/devel/.private/constrained_ik/lib/libmoveit_clik_planner_plugin.so[0m
+[100%] Built target moveit_clik_planner_plugin

@@ -1,0 +1,5 @@
+Symlinking /home/jyk/stomp_ws/devel/lib/libstomp_core.so
+Symlinking /home/jyk/stomp_ws/devel/lib/stomp_core/stomp_core_example
+Symlinking /home/jyk/stomp_ws/devel/lib/pkgconfig/stomp_core.pc
+Symlinking /home/jyk/stomp_ws/devel/share/stomp_core/cmake/stomp_coreConfig-version.cmake
+Symlinking /home/jyk/stomp_ws/devel/share/stomp_core/cmake/stomp_coreConfig.cmake

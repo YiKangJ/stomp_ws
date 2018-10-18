@@ -1,0 +1,1 @@
+/home/jyk/stomp_ws/devel/.private/myworkcell_core/share/common-lisp/ros/myworkcell_core/srv/_package_LocalizePart.lisp

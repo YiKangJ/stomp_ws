@@ -1,0 +1,1 @@
+/home/jyk/stomp_ws/devel/.private/stomp_test_kr210_moveit_config/share/stomp_test_kr210_moveit_config/cmake/stomp_test_kr210_moveit_configConfig.cmake

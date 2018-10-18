@@ -1,0 +1,8 @@
+prefix=/home/jyk/stomp_ws/install
+
+Name: myworkcell_support
+Description: Description of myworkcell_support
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jyk/stomp_ws/install/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/jyk/stomp_ws/devel/.private/constrained_ik/lib/pkgconfig/constrained_ik.pc

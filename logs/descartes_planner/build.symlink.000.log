@@ -1,0 +1,4 @@
+Symlinking /home/jyk/stomp_ws/devel/lib/libdescartes_planner.so
+Symlinking /home/jyk/stomp_ws/devel/lib/pkgconfig/descartes_planner.pc
+Symlinking /home/jyk/stomp_ws/devel/share/descartes_planner/cmake/descartes_plannerConfig.cmake
+Symlinking /home/jyk/stomp_ws/devel/share/descartes_planner/cmake/descartes_plannerConfig-version.cmake

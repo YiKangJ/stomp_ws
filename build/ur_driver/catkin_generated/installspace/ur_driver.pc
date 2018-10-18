@@ -1,0 +1,8 @@
+prefix=/home/jyk/stomp_ws/install
+
+Name: ur_driver
+Description: Description of ur_driver
+Version: 1.2.1
+Cflags: -I/home/jyk/stomp_ws/install/include
+Libs: -L/home/jyk/stomp_ws/install/lib 
+Requires: dynamic_reconfigure

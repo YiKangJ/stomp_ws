@@ -1,0 +1,1 @@
+/home/jyk/stomp_ws/devel/.private/stomp_moveit/share/stomp_moveit/cmake/stomp_moveitConfig.cmake

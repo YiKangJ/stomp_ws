@@ -1,0 +1,4 @@
+Symlinking /home/jyk/stomp_ws/devel/lib/libdescartes_trajectory.so
+Symlinking /home/jyk/stomp_ws/devel/lib/pkgconfig/descartes_trajectory.pc
+Symlinking /home/jyk/stomp_ws/devel/share/descartes_trajectory/cmake/descartes_trajectoryConfig.cmake
+Symlinking /home/jyk/stomp_ws/devel/share/descartes_trajectory/cmake/descartes_trajectoryConfig-version.cmake

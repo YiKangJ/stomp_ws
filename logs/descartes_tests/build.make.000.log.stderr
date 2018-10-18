@@ -1,0 +1,18 @@
+In file included from [01m[K/usr/include/string.h:32:0[m[K,
+                 from [01m[K/usr/include/boost/range/detail/implementation_help.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/range/end.hpp:24[m[K,
+                 from [01m[K/usr/include/boost/algorithm/string/trim.hpp:17[m[K,
+                 from [01m[K/usr/include/boost/algorithm/string.hpp:19[m[K,
+                 from [01m[K/usr/include/urdf_model/pose.h:53[m[K,
+                 from [01m[K/usr/include/urdf_model/joint.h:43[m[K,
+                 from [01m[K/usr/include/urdf_model/link.h:44[m[K,
+                 from [01m[K/usr/include/urdf_model/model.h:42[m[K,
+                 from [01m[K/opt/ros/kinetic/include/urdf/model.h:42[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/robot_model.h:43[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/kinematic_constraints/kinematic_constraint.h:40[m[K,
+                 from [01m[K/home/jyk/stomp_ws/src/4.1/src/descartes/descartes_core/include/descartes_core/robot_model.h:23[m[K,
+                 from [01m[K/home/jyk/stomp_ws/src/4.1/src/descartes/descartes_tests/include/descartes_tests/cartesian_robot.h:22[m[K,
+                 from [01m[K/home/jyk/stomp_ws/src/4.1/src/descartes/descartes_tests/src/cartesian_robot.cpp:19[m[K:
+[01m[K/opt/ros/kinetic/include/moveit/kinematics_base/kinematics_base.h:299:68:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kcontext_state[m[K’ [-Wunused-parameter]
+                    const moveit::core::RobotState* context_state = NULL) const
+[01;32m[K                                                                    ^[m[K

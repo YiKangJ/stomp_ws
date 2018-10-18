@@ -1,0 +1,5 @@
+Symlinking /home/jyk/stomp_ws/devel/lib/libindustrial_collision_detection_plugin.so
+Symlinking /home/jyk/stomp_ws/devel/lib/libindustrial_collision_detection.so
+Symlinking /home/jyk/stomp_ws/devel/lib/pkgconfig/industrial_collision_detection.pc
+Symlinking /home/jyk/stomp_ws/devel/share/industrial_collision_detection/cmake/industrial_collision_detectionConfig.cmake
+Symlinking /home/jyk/stomp_ws/devel/share/industrial_collision_detection/cmake/industrial_collision_detectionConfig-version.cmake

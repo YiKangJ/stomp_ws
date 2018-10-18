@@ -1,0 +1,1 @@
+/home/jyk/stomp_ws/devel/.private/myworkcell_core/share/gennodejs/ros/myworkcell_core/srv/LocalizePart.js

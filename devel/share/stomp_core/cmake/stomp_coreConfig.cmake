@@ -1,0 +1,1 @@
+/home/jyk/stomp_ws/devel/.private/stomp_core/share/stomp_core/cmake/stomp_coreConfig.cmake

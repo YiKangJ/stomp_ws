@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jyk/stomp_ws/devel/.private/fake_ar_publisher/setup.sh

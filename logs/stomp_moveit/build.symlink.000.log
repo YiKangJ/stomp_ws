@@ -1,0 +1,9 @@
+Symlinking /home/jyk/stomp_ws/devel/lib/libstomp_moveit_noise_generators.so
+Symlinking /home/jyk/stomp_ws/devel/lib/libstomp_moveit.so
+Symlinking /home/jyk/stomp_ws/devel/lib/libstomp_moveit_noisy_filters.so
+Symlinking /home/jyk/stomp_ws/devel/lib/libstomp_moveit_update_filters.so
+Symlinking /home/jyk/stomp_ws/devel/lib/libstomp_moveit_cost_functions.so
+Symlinking /home/jyk/stomp_ws/devel/lib/libstomp_moveit_planner_manager.so
+Symlinking /home/jyk/stomp_ws/devel/lib/pkgconfig/stomp_moveit.pc
+Symlinking /home/jyk/stomp_ws/devel/share/stomp_moveit/cmake/stomp_moveitConfig.cmake
+Symlinking /home/jyk/stomp_ws/devel/share/stomp_moveit/cmake/stomp_moveitConfig-version.cmake

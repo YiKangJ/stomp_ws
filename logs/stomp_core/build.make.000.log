@@ -1,0 +1,9 @@
+[35m[1mScanning dependencies of target stomp_core[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/stomp_core.dir/src/stomp.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/stomp_core.dir/src/utils.cpp.o[0m
+[ 60%] [32m[1mLinking CXX shared library /home/jyk/stomp_ws/devel/.private/stomp_core/lib/libstomp_core.so[0m
+[ 60%] Built target stomp_core
+[35m[1mScanning dependencies of target stomp_core_example[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/stomp_core_example.dir/examples/stomp_example.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/jyk/stomp_ws/devel/.private/stomp_core/lib/stomp_core/stomp_core_example[0m
+[100%] Built target stomp_core_example

@@ -1,0 +1,1 @@
+/home/jyk/stomp_ws/devel/.private/industrial_collision_detection/share/industrial_collision_detection/cmake/industrial_collision_detectionConfig-version.cmake

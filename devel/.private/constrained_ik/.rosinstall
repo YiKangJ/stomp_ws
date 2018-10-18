@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jyk/stomp_ws/devel/.private/constrained_ik/setup.sh

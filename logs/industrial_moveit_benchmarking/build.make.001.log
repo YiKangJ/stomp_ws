@@ -1,0 +1,3 @@
+[ 33%] Built target cartesian_benchmarking_node
+[ 66%] Built target stomp_benchmarking_node
+[100%] Built target joint_interpolated_benchmarking_node

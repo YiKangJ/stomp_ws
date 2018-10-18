@@ -1,0 +1,1 @@
+/home/jyk/stomp_ws/devel/.private/stomp_core/lib/pkgconfig/stomp_core.pc

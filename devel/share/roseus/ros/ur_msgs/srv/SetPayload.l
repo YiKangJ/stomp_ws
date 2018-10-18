@@ -1,0 +1,1 @@
+/home/jyk/stomp_ws/devel/.private/ur_msgs/share/roseus/ros/ur_msgs/srv/SetPayload.l

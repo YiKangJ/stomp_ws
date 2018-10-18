@@ -1,0 +1,6 @@
+Symlinking /home/jyk/stomp_ws/devel/lib/industrial_moveit_benchmarking/joint_interpolated_benchmarking_node
+Symlinking /home/jyk/stomp_ws/devel/lib/industrial_moveit_benchmarking/stomp_benchmarking_node
+Symlinking /home/jyk/stomp_ws/devel/lib/industrial_moveit_benchmarking/cartesian_benchmarking_node
+Symlinking /home/jyk/stomp_ws/devel/lib/pkgconfig/industrial_moveit_benchmarking.pc
+Symlinking /home/jyk/stomp_ws/devel/share/industrial_moveit_benchmarking/cmake/industrial_moveit_benchmarkingConfig-version.cmake
+Symlinking /home/jyk/stomp_ws/devel/share/industrial_moveit_benchmarking/cmake/industrial_moveit_benchmarkingConfig.cmake

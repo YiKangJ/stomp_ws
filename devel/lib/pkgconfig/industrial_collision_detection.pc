@@ -1,0 +1,1 @@
+/home/jyk/stomp_ws/devel/.private/industrial_collision_detection/lib/pkgconfig/industrial_collision_detection.pc

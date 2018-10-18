@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target cartesian_benchmarking_node[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/cartesian_benchmarking_node.dir/src/clik_valgrind.cpp.o[0m
+[ 33%] [32m[1mLinking CXX executable /home/jyk/stomp_ws/devel/.private/industrial_moveit_benchmarking/lib/industrial_moveit_benchmarking/cartesian_benchmarking_node[0m
+[ 33%] Built target cartesian_benchmarking_node
+[35m[1mScanning dependencies of target stomp_benchmarking_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/stomp_benchmarking_node.dir/src/stomp_valgrind.cpp.o[0m
+[35m[1mScanning dependencies of target joint_interpolated_benchmarking_node[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/joint_interpolated_benchmarking_node.dir/src/joint_interpolated_valgrind.cpp.o[0m
+[ 83%] [32m[1mLinking CXX executable /home/jyk/stomp_ws/devel/.private/industrial_moveit_benchmarking/lib/industrial_moveit_benchmarking/stomp_benchmarking_node[0m
+[ 83%] Built target stomp_benchmarking_node
+[100%] [32m[1mLinking CXX executable /home/jyk/stomp_ws/devel/.private/industrial_moveit_benchmarking/lib/industrial_moveit_benchmarking/joint_interpolated_benchmarking_node[0m
+[100%] Built target joint_interpolated_benchmarking_node

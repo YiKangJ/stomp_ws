@@ -1,0 +1,6 @@
+devel_space: /home/jyk/stomp_ws/devel
+install: false
+install_space: /home/jyk/stomp_ws/install
+profile: default
+source_space: /home/jyk/stomp_ws/src
+workspace: /home/jyk/stomp_ws

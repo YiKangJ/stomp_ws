@@ -1,0 +1,19 @@
+[  3%] Built target constrained_ik_gencfg
+[ 17%] Built target constrained_ik
+[ 41%] Built target constrained_ik_constraints
+[ 44%] Built target goal_tool_position_example
+[ 48%] Built target goal_tool_pointing_example
+[ 51%] Built target goal_position_example
+[ 55%] Built target goal_minimize_change_example
+[ 58%] Built target goal_mid_joint_example
+[ 62%] Built target avoid_singularities_example
+[ 66%] Built target avoid_obstacles_example
+[ 69%] Built target avoid_joint_limits_example
+[ 73%] Built target constraints_from_yaml_example
+[ 78%] Built target constrained_ik_moveit
+[ 82%] Built target constrained_ik_plugin
+[ 85%] Built target avoid_joint_vel_limits_example
+[ 89%] Built target goal_tool_orientation_example
+[ 92%] Built target goal_zero_jvel_example
+[ 96%] Built target goal_orientation_example
+[100%] Built target moveit_clik_planner_plugin

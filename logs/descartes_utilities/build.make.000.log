@@ -1,0 +1,139 @@
+[35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[  0%] Built target _catkin_empty_exported_target
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_py[0m
+[  0%] Built target octomap_msgs_generate_messages_py
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_lisp[0m
+[  0%] Built target octomap_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target object_recognition_msgs_generate_messages_nodejs[0m
+[  0%] Built target object_recognition_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target object_recognition_msgs_generate_messages_eus[0m
+[  0%] Built target object_recognition_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_eus[0m
+[  0%] Built target octomap_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target object_recognition_msgs_generate_messages_cpp[0m
+[  0%] Built target object_recognition_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_py[0m
+[  0%] Built target trajectory_msgs_generate_messages_py
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_nodejs[0m
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_lisp[0m
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_eus[0m
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_py[0m
+[  0%] Built target shape_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
+[  0%] Built target visualization_msgs_generate_messages_py
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_nodejs[0m
+[  0%] Built target shape_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_cpp[0m
+[  0%] Built target octomap_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target object_recognition_msgs_generate_messages_py[0m
+[  0%] Built target object_recognition_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_cpp[0m
+[  0%] Built target shape_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_cpp[0m
+[  0%] Built target moveit_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_lisp[0m
+[  0%] Built target moveit_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_nodejs[0m
+[  0%] Built target moveit_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_lisp[0m
+[  0%] Built target shape_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target object_recognition_msgs_generate_messages_lisp[0m
+[  0%] Built target object_recognition_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_nodejs[0m
+[  0%] Built target octomap_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_cpp[0m
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_eus[0m
+[  0%] Built target shape_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
+[  0%] Built target visualization_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
+[  0%] Built target visualization_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
+[  0%] Built target visualization_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_eus[0m
+[  0%] Built target moveit_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_py[0m
+[  0%] Built target moveit_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
+[  0%] Built target visualization_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target descartes_utilities[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/descartes_utilities.dir/src/ros_conversions.cpp.o[0m
+In file included from [01m[K/usr/include/string.h:32:0[m[K,
+                 from [01m[K/usr/include/c++/5/cstring:42[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/detail/fp_traits.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/fpclassify.hpp:20[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/round.hpp:16[m[K,
+                 from [01m[K/opt/ros/kinetic/include/ros/time.h:58[m[K,
+                 from [01m[K/opt/ros/kinetic/include/ros/serialization.h:34[m[K,
+                 from [01m[K/opt/ros/kinetic/include/trajectory_msgs/JointTrajectory.h:14[m[K,
+                 from [01m[K/home/jyk/stomp_ws/src/4.1/src/descartes/descartes_utilities/include/descartes_utilities/ros_conversions.h:28[m[K,
+                 from [01m[K/home/jyk/stomp_ws/src/4.1/src/descartes/descartes_utilities/src/ros_conversions.cpp:25[m[K:
+[01m[K/opt/ros/kinetic/include/moveit/kinematics_base/kinematics_base.h:299:68:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kcontext_state[m[K’ [-Wunused-parameter]
+                    const moveit::core::RobotState* context_state = NULL) const
+[01;32m[K                                                                    ^[m[K
+[100%] [32m[1mLinking CXX shared library /home/jyk/stomp_ws/devel/.private/descartes_utilities/lib/libdescartes_utilities.so[0m
+[100%] Built target descartes_utilities

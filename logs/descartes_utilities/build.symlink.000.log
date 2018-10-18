@@ -1,0 +1,4 @@
+Symlinking /home/jyk/stomp_ws/devel/lib/libdescartes_utilities.so
+Symlinking /home/jyk/stomp_ws/devel/lib/pkgconfig/descartes_utilities.pc
+Symlinking /home/jyk/stomp_ws/devel/share/descartes_utilities/cmake/descartes_utilitiesConfig.cmake
+Symlinking /home/jyk/stomp_ws/devel/share/descartes_utilities/cmake/descartes_utilitiesConfig-version.cmake

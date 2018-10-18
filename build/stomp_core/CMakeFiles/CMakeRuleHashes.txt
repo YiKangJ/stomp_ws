@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+d99c70895fe1f84c5b93d41a668e3adb CMakeFiles/_run_tests_stomp_core_gtest_stomp_core_utest
+62202c61723c2ada566bbcbb624f4b31 CMakeFiles/clean_test_results
+a41044586e28bbbc9dfaf75f7b3b26e5 CMakeFiles/clean_test_results_stomp_core
+d99c70895fe1f84c5b93d41a668e3adb CMakeFiles/run_tests_stomp_core_gtest_stomp_core_utest

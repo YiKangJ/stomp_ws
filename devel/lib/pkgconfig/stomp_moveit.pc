@@ -1,0 +1,1 @@
+/home/jyk/stomp_ws/devel/.private/stomp_moveit/lib/pkgconfig/stomp_moveit.pc

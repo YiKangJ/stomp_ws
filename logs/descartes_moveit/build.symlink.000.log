@@ -1,0 +1,4 @@
+Symlinking /home/jyk/stomp_ws/devel/lib/libdescartes_moveit.so
+Symlinking /home/jyk/stomp_ws/devel/lib/pkgconfig/descartes_moveit.pc
+Symlinking /home/jyk/stomp_ws/devel/share/descartes_moveit/cmake/descartes_moveitConfig.cmake
+Symlinking /home/jyk/stomp_ws/devel/share/descartes_moveit/cmake/descartes_moveitConfig-version.cmake
